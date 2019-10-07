@@ -1,7 +1,227 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70a57471-7bb4-4733-a8de-d57fb941fa38" name="Default Changelist" comment="" />
+    <list default="true" id="70a57471-7bb4-4733-a8de-d57fb941fa38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01 Объект.Класс./classes/FirstClass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01 Объект.Класс./index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 Методы объекта,свойства объекта./classes/Car.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 Методы объекта,свойства объекта./index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Константы класса,методы dectruct,construct/classes/Car.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Константы класса,методы dectruct,construct/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 Наследование/classes/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 Наследование/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 Наследование класса/classes/BookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 Наследование класса/classes/NotebookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 Наследование класса/classes/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 Наследование класса/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 Модификаторы доступа/classes/BookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 Модификаторы доступа/classes/NotebookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 Модификаторы доступа/classes/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 Модификаторы доступа/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Aбстрактные классы и интерфейсы./classes/BookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Aбстрактные классы и интерфейсы./classes/NotebookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Aбстрактные классы и интерфейсы./classes/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Aбстрактные классы и интерфейсы./index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Aбстрактные классы и интерфейсы/classes/BookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Aбстрактные классы и интерфейсы/classes/I3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Aбстрактные классы и интерфейсы/classes/NotebookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Aбстрактные классы и интерфейсы/classes/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Aбстрактные классы и интерфейсы/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 Интерфейсы,контроль типов/classes/BookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 Интерфейсы,контроль типов/classes/I3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 Интерфейсы,контроль типов/classes/IGadget.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 Интерфейсы,контроль типов/classes/NotebookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 Интерфейсы,контроль типов/classes/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 Интерфейсы,контроль типов/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 Автозагрузка (use),namespace(пространства имен)/classes/BookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 Автозагрузка (use),namespace(пространства имен)/classes/NotebookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 Автозагрузка (use),namespace(пространства имен)/classes/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 Автозагрузка (use),namespace(пространства имен)/classes/interfaces/I3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 Автозагрузка (use),namespace(пространства имен)/classes/interfaces/IGadget.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 Автозагрузка (use),namespace(пространства имен)/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/app/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/app/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/app/BookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/app/NotebookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/COMMITMENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/SECURITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/get_oauth_token.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-af.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-am.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-ba.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-ch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-cs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-da.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-hi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-mg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-nb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt_br.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-sv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-tl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/src/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/src/OAuth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/src/PHPMailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/src/POP3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/phpmailer/phpmailer/src/SMTP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/wfm/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/wfm/interfaces/I3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/wfm/interfaces/IGadget.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Composer, автозагрузка/vendor/wfm/traits/TColor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/app/A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/app/B.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/app/BookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/app/NotebookProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/COMMITMENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/SECURITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/get_oauth_token.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-af.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-am.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-ba.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-ch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-cs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-da.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-hi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-mg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-nb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt_br.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-sv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-tl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/src/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/src/OAuth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/src/PHPMailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/src/POP3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/phpmailer/phpmailer/src/SMTP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/wfm/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/wfm/interfaces/I3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/wfm/interfaces/IGadget.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 Магические методы/vendor/wfm/traits/TColor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookies111/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookies111/test1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fwriteClass/classes/File.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fwriteClass/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fwriteClass/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php777.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session/secret.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session/sess1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session/sess2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/coursephp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coursephp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date.php" beforeDir="false" afterPath="$PROJECT_DIR$/date.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +255,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/psr/log" />
@@ -44,12 +267,17 @@
       <path value="$PROJECT_DIR$/vendor/setasign/fpdi" />
       <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
       <path value="$PROJECT_DIR$/vendor/twbs/bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
     </include_path>
   </component>
   <component name="ProjectId" id="1QVPa543Fw3GDbu9hvnKa5Q7rB5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
@@ -58,6 +286,16 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OSPanel\domains\localhost\coursephp\13 Composer, автозагрузка\vendor\wfm" />
+      <recent name="E:\OSPanel\domains\localhost\coursephp\12 Автозагрузка (use),namespace(пространства имен)\classes\interface" />
+      <recent name="E:\OSPanel\domains\localhost\coursephp\11 Интерфейсы и контроль типов\classes\interfaces" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OSPanel\domains\localhost\coursephp" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,11 +337,41 @@
       <workItem from="1568792141179" duration="755000" />
       <workItem from="1568883039313" duration="8894000" />
       <workItem from="1568972214202" duration="625000" />
-      <workItem from="1569225317898" duration="827000" />
+      <workItem from="1569225317898" duration="2020000" />
+      <workItem from="1569513684220" duration="3360000" />
+      <workItem from="1569612365089" duration="1384000" />
+      <workItem from="1569752059270" duration="6601000" />
+      <workItem from="1569834957400" duration="4765000" />
+      <workItem from="1569853320565" duration="6349000" />
+      <workItem from="1569864256016" duration="2374000" />
+      <workItem from="1569920939742" duration="3950000" />
+      <workItem from="1569932135800" duration="15364000" />
+      <workItem from="1570007850492" duration="6542000" />
+      <workItem from="1570090153479" duration="9817000" />
+      <workItem from="1570108970775" duration="662000" />
+      <workItem from="1570114499474" duration="5115000" />
+      <workItem from="1570209581184" duration="4513000" />
+      <workItem from="1570450930865" duration="2086000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
