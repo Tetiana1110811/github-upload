@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="59e8a356-905f-4130-ab37-01f9c956142f" name="OS" url="http://localhost/ishop2.loc">
+        <fileTransfer port="0" mountedRoot="E:\OSPanel\domains\localhost\ishop2.loc" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
